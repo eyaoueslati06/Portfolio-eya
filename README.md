@@ -1,4 +1,3 @@
-# Eya Oueslati | Portfolio
+# Eya Oueslati| Portfolio
 
-React + TypeScript + Vite.
-
+# React + TypeScript + Vite.
