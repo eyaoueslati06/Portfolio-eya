@@ -7,7 +7,6 @@ const links: [string, string][] = [
   ['work', 'Projects'],
   ['experience', 'Experience'],
   ['skills', 'Skills'],
-  ['mood', 'Mood'],
   ['systems', 'Systems'],
   ['contact', 'Contact'],
 ]

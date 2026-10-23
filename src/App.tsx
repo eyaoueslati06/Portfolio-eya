@@ -7,7 +7,6 @@ import Work from './components/Work'
 import Experience from './components/Experience'
 import Skills from './components/Skills'
 import { Why, Systems } from './components/Sections'
-import Mood from './components/Mood'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
@@ -24,7 +23,6 @@ export default function App() {
         <Skills />
         <Why />
         
-        <Mood />
         <Systems />
         <Contact />
       </main>

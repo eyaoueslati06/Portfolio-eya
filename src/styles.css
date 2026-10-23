@@ -732,3 +732,13 @@ footer .footer-logo:hover .signature {
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================
+   PERMANENT THEME — LAVENDER
+========================================== */
+
+:root {
+  --pur2: #9d8ccf;
+  --pur: #7b6bb5;
+  --rose: #b3566f;
+}
