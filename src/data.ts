@@ -473,7 +473,7 @@ export const education = [
 ========================================== */
 
 // Put the actual PDF at public/Eya_Oueslati_CV.pdf.
-export const cvUrl: string = `${import.meta.env.BASE_URL}Eya_Oueslati_CV.pdf`
+export const cvUrl: string = `${import.meta.env.BASE_URL}Eya_Oueslati_CV_Eng.pdf`
 
 export async function downloadCv() {
   try {
@@ -496,7 +496,7 @@ export async function downloadCv() {
     const objectUrl = URL.createObjectURL(blob)
     const link = document.createElement('a')
     link.href = objectUrl
-    link.download = 'Eya_Oueslati_CV.pdf'
+    link.download = 'Eya_Oueslati_CV_Eng.pdf'
     document.body.appendChild(link)
     link.click()
     link.remove()
